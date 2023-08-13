@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 20px;
+  }
+  
+  .logo img {
+    height: 40px;
+  }
+  
+  .nav-list {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav-list li a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .login-button a {
+    padding: 8px 16px;
+    background-color: #f39c12;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+  }
+  
+  .login-button a:hover {
+    background-color: #e67e22;
+  }
+  
