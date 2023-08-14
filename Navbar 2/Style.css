@@ -15,14 +15,11 @@ li, a, button {
     color: #edf0f1;
 }
 
-header {
+.logo {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
-}
-
-.logo {
     cursor: pointer;
 }
 
