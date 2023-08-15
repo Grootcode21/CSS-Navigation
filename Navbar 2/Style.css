@@ -15,7 +15,7 @@ li, a, button {
     color: #edf0f1;
 }
 
-.logo {
+.logo, .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
